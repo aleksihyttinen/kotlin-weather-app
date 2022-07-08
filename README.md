@@ -1,4 +1,4 @@
-# android-weather-app
+# kotlin-weather-app
 Repository for android project work.  
 A weather app made with Kotlin that uses the OpenWeatherMap-api (https://openweathermap.org/api).  
 
