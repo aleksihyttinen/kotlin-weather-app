@@ -2,7 +2,7 @@
 Repository for android project work.  
 A weather app made with Kotlin that uses the OpenWeatherMap-api (https://openweathermap.org/api).  
 
-#Screenshots
+#Screenshots  
 ![home_screen](/screenshots/home_screen.jpg)
 ![forecast_screen](/screenshots/forecast.jpg)
 ![change_location](/screenshots/change_location.jpg)
